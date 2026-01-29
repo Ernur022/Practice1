@@ -1,0 +1,1 @@
+print("KBTU"); print("IS"); print("BEST")
