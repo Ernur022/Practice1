@@ -1,0 +1,2 @@
+#print("KBTU")
+print("KBTU")
