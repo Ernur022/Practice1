@@ -1,0 +1,2 @@
+MYVAR = "KBTU"
+print(MYVAR)
