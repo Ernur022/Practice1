@@ -1,0 +1,6 @@
+x = str("sss")
+y = str(5)
+z = str(6.5)
+print(x)
+print(y)
+print(z)
